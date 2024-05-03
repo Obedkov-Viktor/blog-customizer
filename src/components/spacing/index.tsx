@@ -1,1 +1,1 @@
-import {Spacing} from "components/spacing/Spacing";
+import {Spacing} from "./Spacing";
